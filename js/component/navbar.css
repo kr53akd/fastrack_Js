@@ -1,0 +1,19 @@
+#navbar{
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    padding: 15px 93px 20px 93px;
+}
+#navbar .logo{
+    width: 193px;
+    height: auto;
+}
+#animation-block{
+    background-color: #222;
+}
+#location-aria{
+    background-color: #f1f1f1;
+    width: 100%;
+    height: 35px;
+    padding-left: 93px;
+}

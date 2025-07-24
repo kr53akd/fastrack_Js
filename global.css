@@ -1,0 +1,27 @@
+@import url("./js/component/navbar.css");
+*{
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+}
+
+.w-full{
+    width: 100%;
+};
+
+.text-white{
+    color: white;
+}
+
+.h-35{
+    height: 35px;
+}
+.text-sm{
+    font-size: 12px
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
