@@ -1,9 +1,18 @@
+
+
+
 @import url("./js/component/navbar.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
 *{
     padding:0;
     margin:0;
     font-family: sans-serif;
+    
 }
+
+
 
 .w-full{
     width: 100%;

@@ -6,3 +6,14 @@ export function createNewElement(elementName, attributes){
     })
     return tag;
 }
+
+
+
+
+
+
+
+
+
+
+
